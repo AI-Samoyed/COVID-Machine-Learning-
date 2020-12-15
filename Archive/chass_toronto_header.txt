@@ -127,7 +127,7 @@ COL124 - Immigration - Total Sex / Total - Selected places of birth for the rece
 COL125 - Immigration - Total Sex / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Africa / Algeria
 COL126 - Immigration - Total Sex / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Africa / Cameroon
 COL127 - Immigration - Total Sex / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Africa / Congo, Democratic Republic of the
-COL128 - Immigration - Total Sex / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Africa / Côte d'Ivoire
+COL128 - Immigration - Total Sex / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Africa / CÃ´te d'Ivoire
 COL129 - Immigration - Total Sex / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Africa / Egypt
 COL130 - Immigration - Total Sex / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Africa / Eritrea
 COL131 - Immigration - Total Sex / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Africa / Ethiopia
